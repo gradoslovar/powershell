@@ -1,3 +1,7 @@
 # variuos generated reports
 *-diskreport.txt
 diskhistory.csv
+
+
+# exclude folders
+_playground/
